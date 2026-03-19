@@ -1,0 +1,7 @@
+*** SINUMERIK OPC-Server DataAccess-V2.4.2.98  (C) Siemens AG (1998-2003): Start [R2.4.2.98-REL]
+*** Instance:	f:\mmc2\opc\dataaccess\SOPC_MachineSwitch.exe
+*** Date:	27. 2.2007
+***
+14:40:26, 99|0468*  >WinMain
+14:40:26, 99|0468*  >SOPCRegisterProgAndClsId
+14:40:26,109|0468*  <SOPCRegisterProgAndClsId [hr=0]

@@ -1,0 +1,56 @@
+
+M 19/03/2026 19.44.15	0	frmRunOpcUa FORM_LOAD ENTER
+M 19/03/2026 19.44.15	0	OpcUA Legacy 3.0   RunOpcUa Version: 3.0.1  FORM_LOAD ENTER
+M 19/03/2026 19.44.15	0	Windows Version: Windows XP Service Pack 2  5.1.2600 PlatformId: 2
+M 19/03/2026 19.44.15	0	Read PCU Base Version
+M 19/03/2026 19.44.15	0	Version line  1: PCU50-V3 BASESOFTWARE WinXP V08.00.02.01
+M 19/03/2026 19.44.15	0	Version line  2: (Build-Version 08.00.31.03)
+M 19/03/2026 19.44.15	0	Version line  3: WinPE 2005
+M 19/03/2026 19.44.15	0	Version line  4: NORTON Ghost32 V8.2.0 (build=1117) Symantac Corp.
+M 19/03/2026 19.44.15	0	Read HMI-Advanced version
+M 19/03/2026 19.44.15	0	Version line  1: HMI-Advanced  .........  06.04.24.01 2006/09/25
+M 19/03/2026 19.44.15	0	Version line  2: ------------------------------------------------------
+M 19/03/2026 19.44.15	0	Version line  3: AB16.DLL.....................  HMI_ADV  23/06/2004 06.04.18.00
+M 19/03/2026 19.44.15	0	Version line  4: AB32.DLL.....................  HMI_ADV  04/05/2005 06.04.21.00
+M 19/03/2026 19.44.15	0	read file versions:
+M 19/03/2026 19.44.15	0	F:\oem\OpcUaLegacy\opcUa_Server_xp.exe Date: 15.07.2025  07:47:0 Filesize: 409.088
+M 19/03/2026 19.44.15	0	F:\oem\OpcUaLegacy\open62541.dll Date: 12.06.2025  12:59:56 Filesize: 1854.976
+M 19/03/2026 19.44.15	0	F:\oem\OpcUaLegacy\DllToCallDctl.dll Date: 15.03.2021  10:31:8 Filesize: 82.944
+M 19/03/2026 19.44.15	0	  NCDDE: ncdde|NCU840D
+M 19/03/2026 19.44.15	0	  TempFilePath: F:\oem\OpcUaLegacy\
+M 19/03/2026 19.44.15	0	modGeneral::InitDctls: g_dctClsRequest initialized
+M 19/03/2026 19.44.15	0	modGeneral::InitDctls: g_dctClsExecute initialized
+M 19/03/2026 19.44.15	0	modGeneral::InitDctls: g_dctClsCopyExecute initialized
+M 19/03/2026 19.44.16	0	modGeneral::CreateMultivar: 0 ()
+M 19/03/2026 19.44.16	0	modGeneral::CreateMultivar: defaultMultiVar = multivar0.7055475
+M 19/03/2026 19.44.16	0	modGeneral::StartUp: /Nck/Configuration/maskToolManagement[1] = 31
+M 19/03/2026 19.44.16	0	modGeneral::StartUp: g_bToolMaskBit0IsSet = True
+M 19/03/2026 19.44.16	0	modGeneral::StartUp: NumToas = 1
+M 19/03/2026 19.44.16	0	modGeneral::StartUp: /Nck/Configuration/numCuttEdgeParams_ts = 9
+M 19/03/2026 19.44.16	0	modGeneral::StartUp: /Nck/Configuration/numCuttEdgeParams = 25
+M 19/03/2026 19.44.16	0	modGeneral::StartUp: /Nck/Configuration/numToolParams_tu = 10
+M 19/03/2026 19.44.16	0	modGeneral::StartUp: /Nck/Configuration/numCuttEdgeParams_tu = 10
+M 19/03/2026 19.44.16	0	modGeneral::StartUp: /Nck/Configuration/numCuttEdgeParams_tus = 0
+M 19/03/2026 19.44.16	0	modGeneral::StartUp: /NCK/Configuration/maxCuttingEdgeNo[1] = 3
+M 19/03/2026 19.44.16	0	modGeneral::StartUp: /NCK/Configuration/maxnumCuttEdges_tool[1] = 3
+M 19/03/2026 19.44.16	0	modGeneral::InitTMService: TM Service initialized
+M 19/03/2026 19.44.16	0	frmRunOpcUa CreateNcddeOpcAlarmVars ENTER
+M 19/03/2026 19.44.16	0	frmRunOpcUa CreateNcddeOpcAlarmVars exit
+M 19/03/2026 19.44.16	0	frmRunOpcUa CreateNcddeOpcToolsVars ENTER
+M 19/03/2026 19.44.16	0	frmRunOpcUa CreateNcddeOpcToolsVars exit
+M 19/03/2026 19.44.16	0	Starting OPCUA-Server: "F:\oem\OpcUaLegacy\opcUa_Server_xp.exe"
+M 19/03/2026 19.44.16	2792	OPCUA-Server started successful
+M 19/03/2026 19.44.16	0	frmRunOpcUa FORM_LOAD EXIT
+M 19/03/2026 19.44.36	0	frmRunOpcUa InitAlarmList ENTER
+M 19/03/2026 19.44.36	0	frmRunOpcUa InitAlarmList exit
+M 19/03/2026 19.44.36	0	frmRunOpcUa InitToolInterface ENTER
+M 19/03/2026 19.44.36	0	frmRunOpcUa InitToolInterface exit
+M 19/03/2026 19.44.36	0	frmRunOpcUa InitFileInterface ENTER
+E 19/03/2026 19.44.36	0	Error 13 (Type mismatch) in procedure InitFileInterface of Formular frmRunOpcUa
+M 19/03/2026 19.44.36	0	frmRunOpcUa InitFileInterface exit
+M 19/03/2026 19.44.36	0	frmRunOpcUa  Timer1_Timer() ENTER before InitCompleteEx
+M 19/03/2026 19.44.36	0	frmRunOpcUa  Timer1_Timer() EXIT after InitCompleteEx
+M 19/03/2026 19.44.36	0	frmRunOpcUa  dctOpcUaCmd_DdeNotify Enter: dctOpcUaCmd.data: 
+M 19/03/2026 19.44.36	0	frmRunOpcUa  dctOpcUaCmd_DdeNotify No valid Command Data EXT SUB 
+M 19/03/2026 19.44.36	0	frmRunOpcUa  dctOpcUaFileCmd_DdeNotify Enter: dctOpcUaFileCmd.data: 
+M 19/03/2026 19.44.36	0	frmRunOpcUa  dctOpcUaFileCmd_DdeNotify No valid Command Data EXT SUB 

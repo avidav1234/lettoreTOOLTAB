@@ -1,0 +1,1076 @@
+E 01/15/26 11:13:34        0 604 Load file: F:\oem\OpcUaLegacy\opcualegacysvr_cert.der, File not found
+E 01/15/26 11:13:35        0 604 No LicenseKey in File found
+E 01/15/26 11:13:35        0 604 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/15/26 11:13:35        0 604 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/15/26 11:13:35        0 604 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/15/26 11:13:35        0 604 Invalid LicenseKey
+E 01/15/26 11:13:35        0 604 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/15/26 11:13:35        0 604 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/15/26 11:13:35        0 604 ReadPlVar - VarName= /BAG/State/opmode; read Error= 0x 7000104
+E 01/15/26 11:13:35       41 604 ReadPlVarString Error result= 0x 7000104 
+E 01/15/26 11:13:35        0 604 ReadPlVar - VarName= /Channel/State/feedRateIpoOvr[u1]; read Error= 0x 7000104
+E 01/15/26 11:13:35        0 604 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u1]; read Error= 0x 7000104
+E 01/15/26 11:13:35       41 604 ReadPlVarString Error result= 0x 7000104 
+E 01/15/26 11:13:35        0 604 ReadPlVar - VarName= /channel/parameter/R[u1,0]; read Error= 0x 7000104
+E 01/15/26 11:13:35        0 604 ReadPlVar - VarName= /channel/parameter/R[u1,1]; read Error= 0x 7000104
+E 01/15/26 11:13:35        0 604 ReadPlVar - VarName= /channel/parameter/R[u1,2]; read Error= 0x 7000104
+E 01/15/26 11:13:35        0 604 ReadPlVar - VarName= /channel/parameter/R[u1,3]; read Error= 0x 7000104
+E 01/15/26 11:13:36        0 604 ReadPlVar - VarName= /channel/parameter/R[u1,4]; read Error= 0x 7000104
+E 01/15/26 11:13:36        0 604 ReadPlVar - VarName= /channel/parameter/R[u1,5]; read Error= 0x 7000104
+E 01/15/26 11:13:36        0 604 ReadPlVar - VarName= /channel/parameter/R[u1,6]; read Error= 0x 7000104
+E 01/15/26 11:13:36        0 604 ReadPlVar - VarName= /channel/parameter/R[u1,7]; read Error= 0x 7000104
+E 01/15/26 11:13:36        0 604 ReadPlVar - VarName= /channel/parameter/R[u1,8]; read Error= 0x 7000104
+E 01/15/26 11:13:36        0 604 ReadPlVar - VarName= /channel/parameter/R[u1,9]; read Error= 0x 7000104
+E 01/15/26 11:13:36        0 604 ReadPlVar - VarName= /channel/parameter/R[u1,0,#10](|); read Error= 0x 7000104
+E 01/15/26 11:13:36 117440772 604 Read ReadPlVarArray: VarName= /channel/parameter/R[u1,0,#10](|); Error= 0x 7000104
+E 01/15/26 11:13:36        0 604 ReadPlVar - VarName= /channel/parameter/R[u1,0,#10](|); read Error= 0x 7000104
+E 01/15/26 11:13:36 117440772 604 Read ReadPlVarArray: VarName= /channel/parameter/R[u1,0,#10](|); Error= 0x 7000104
+E 01/15/26 11:13:36        0 604 ReadPlVar - VarName= /Plc/Datablock/Bit[c103,6.0]; read Error= 0x 7000104
+E 01/15/26 11:13:36        0 604 ReadPlVar - VarName= /Plc/Datablock/Byte[c103,8]; read Error= 0x 7000104
+E 01/15/26 11:13:37        0 604 ReadPlVar - VarName= /Plc/Datablock/Word[c103,>10]; read Error= 0x 7000104
+E 01/15/26 11:13:37        0 604 ReadPlVar - VarName= /Plc/Datablock/Integer[c103,>12]; read Error= 0x 7000104
+E 01/15/26 11:13:37        0 604 ReadPlVar - VarName= /Plc/Datablock/Integer[c103,>12]; read Error= 0x 7000104
+E 01/15/26 11:13:37        0 604 ReadPlVar - VarName= /Plc/Datablock/DoubleWord[c103,>18]; read Error= 0x 7000104
+E 01/15/26 11:13:37        0 604 ReadPlVar - VarName= /Plc/Datablock/DoubleInteger[c103,>22]; read Error= 0x 7000104
+E 01/15/26 11:13:37        0 604 ReadPlVar - VarName= /Plc/Datablock/Float[c103,>26]; read Error= 0x 7000104
+E 01/15/26 11:13:37        0 604 ReadPlVar - VarName= /Plc/Datablock/Float[c103,>26]; read Error= 0x 7000104
+E 01/15/26 11:13:37        0 604 ReadPlVar - VarName= /Plc/Datablock/Float[c103,>26]; read Error= 0x 7000104
+E 01/15/26 11:13:37        0 604 ReadPlVar - VarName= /Hmi/OpcUaAlarm1; read Error= 0x 7000104
+E 01/15/26 11:13:37       41 604 ReadPlVarString Error result= 0x 7000104 
+E 01/15/26 11:13:37        0 604 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 7000104
+E 01/15/26 11:13:37       41 604 ReadPlVarString Error result= 0x 7000104 
+E 01/15/26 11:13:38        0 604 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 7000104
+E 01/15/26 11:13:38       41 604 ReadPlVarString Error result= 0x 7000104 
+E 01/15/26 11:13:38        0 604 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 7000104
+E 01/15/26 11:13:38       41 604 ReadPlVarString Error result= 0x 7000104 
+E 01/15/26 11:13:38        0 604 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 7000104
+E 01/15/26 11:13:38       41 604 ReadPlVarString Error result= 0x 7000104 
+E 01/15/26 11:13:38        0 604 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 7000104
+E 01/15/26 11:13:38       41 604 ReadPlVarString Error result= 0x 7000104 
+E 01/15/26 11:13:38        0 604 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 7000104
+E 01/15/26 11:13:38       41 604 ReadPlVarString Error result= 0x 7000104 
+E 01/15/26 11:13:38        0 604 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 7000104
+E 01/15/26 11:13:38       41 604 ReadPlVarString Error result= 0x 7000104 
+E 01/15/26 11:13:38        0 604 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 7000104
+E 01/15/26 11:13:38       41 604 ReadPlVarString Error result= 0x 7000104 
+E 01/15/26 11:13:38        0 604 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 7000104
+E 01/15/26 11:13:38       41 604 ReadPlVarString Error result= 0x 7000104 
+E 01/15/26 11:13:38        0 604 ReadPlVar - VarName= /Hmi/OpcUaAlarmNumbers; read Error= 0x 7000104
+E 01/15/26 11:13:38       41 604 ReadPlVarString Error result= 0x 7000104 
+E 01/15/26 13:00:42        0 056 No LicenseKey in File found
+E 01/15/26 13:00:42        0 056 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/15/26 13:00:42        0 056 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/15/26 13:00:42        0 056 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/15/26 13:00:42        0 056 Invalid LicenseKey
+E 01/15/26 13:00:42        0 056 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/15/26 13:00:42        0 056 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/15/26 13:00:43        0 056 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/15/26 13:00:43       41 056 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:00:43        0 056 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/15/26 13:00:43       41 056 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:00:43        0 056 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/15/26 13:00:43       41 056 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:00:43        0 056 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/15/26 13:00:43       41 056 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:00:43        0 056 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/15/26 13:00:43       41 056 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:00:43        0 056 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/15/26 13:00:43       41 056 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:00:43        0 056 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/15/26 13:00:43       41 056 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:00:43        0 056 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/15/26 13:00:43       41 056 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:00:43        0 056 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/15/26 13:00:43       41 056 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:20:34        0 736 No LicenseKey in File found
+E 01/15/26 13:20:34        0 736 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/15/26 13:20:34        0 736 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/15/26 13:20:34        0 736 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/15/26 13:20:34        0 736 Invalid LicenseKey
+E 01/15/26 13:20:34        0 736 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/15/26 13:20:34        0 736 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/15/26 13:20:35        0 736 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/15/26 13:20:35       41 736 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:20:35        0 736 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/15/26 13:20:35       41 736 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:20:35        0 736 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/15/26 13:20:35       41 736 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:20:35        0 736 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/15/26 13:20:35       41 736 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:20:35        0 736 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/15/26 13:20:35       41 736 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:20:35        0 736 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/15/26 13:20:35       41 736 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:20:35        0 736 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/15/26 13:20:35       41 736 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:20:35        0 736 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/15/26 13:20:35       41 736 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:20:35        0 736 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/15/26 13:20:35       41 736 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:24:28        0 924 No LicenseKey in File found
+E 01/15/26 13:24:28        0 924 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/15/26 13:24:28        0 924 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/15/26 13:24:28        0 924 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/15/26 13:24:28        0 924 Invalid LicenseKey
+E 01/15/26 13:24:28        0 924 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/15/26 13:24:28        0 924 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/15/26 13:24:29        0 924 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/15/26 13:24:29       41 924 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:24:29        0 924 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/15/26 13:24:29       41 924 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:24:29        0 924 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/15/26 13:24:29       41 924 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:24:29        0 924 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/15/26 13:24:29       41 924 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:24:29        0 924 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/15/26 13:24:29       41 924 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:24:29        0 924 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/15/26 13:24:29       41 924 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:24:29        0 924 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/15/26 13:24:29       41 924 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:24:29        0 924 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/15/26 13:24:29       41 924 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 13:24:29        0 924 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/15/26 13:24:29       41 924 ReadPlVarString Error result= 0x 1040303 
+E 01/15/26 14:25:52        0 924 Demo Mode expired - Access denied
+E 01/16/26 07:35:11        0 148 No LicenseKey in File found
+E 01/16/26 07:35:11        0 148 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/16/26 07:35:11        0 148 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/16/26 07:35:11        0 148 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/16/26 07:35:11        0 148 Invalid LicenseKey
+E 01/16/26 07:35:11        0 148 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/16/26 07:35:11        0 148 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/16/26 07:35:12        0 148 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/16/26 07:35:12       41 148 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:35:12        0 148 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/16/26 07:35:12       41 148 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:35:12        0 148 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/16/26 07:35:12       41 148 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:35:12        0 148 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/16/26 07:35:12       41 148 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:35:12        0 148 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/16/26 07:35:12       41 148 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:35:12        0 148 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/16/26 07:35:12       41 148 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:35:12        0 148 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/16/26 07:35:12       41 148 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:35:12        0 148 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/16/26 07:35:12       41 148 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:35:12        0 148 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/16/26 07:35:12       41 148 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:46:13        0 724 No LicenseKey in File found
+E 01/16/26 07:46:13        0 724 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/16/26 07:46:13        0 724 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/16/26 07:46:13        0 724 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/16/26 07:46:13        0 724 Invalid LicenseKey
+E 01/16/26 07:46:13        0 724 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/16/26 07:46:13        0 724 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/16/26 07:46:14        0 724 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/16/26 07:46:14       41 724 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:46:14        0 724 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/16/26 07:46:14       41 724 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:46:14        0 724 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/16/26 07:46:14       41 724 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:46:14        0 724 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/16/26 07:46:14       41 724 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:46:14        0 724 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/16/26 07:46:14       41 724 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:46:14        0 724 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/16/26 07:46:14       41 724 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:46:14        0 724 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/16/26 07:46:14       41 724 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:46:14        0 724 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/16/26 07:46:14       41 724 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:46:14        0 724 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/16/26 07:46:14       41 724 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:50:55        0 728 No LicenseKey in File found
+E 01/16/26 07:50:55        0 728 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/16/26 07:50:55        0 728 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/16/26 07:50:55        0 728 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/16/26 07:50:55        0 728 Invalid LicenseKey
+E 01/16/26 07:50:55        0 728 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/16/26 07:50:55        0 728 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/16/26 07:50:56        0 728 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/16/26 07:50:56       41 728 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:50:56        0 728 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/16/26 07:50:56       41 728 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:50:56        0 728 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/16/26 07:50:56       41 728 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:50:56        0 728 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/16/26 07:50:56       41 728 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:50:56        0 728 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/16/26 07:50:56       41 728 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:50:56        0 728 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/16/26 07:50:56       41 728 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:50:56        0 728 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/16/26 07:50:56       41 728 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:50:56        0 728 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/16/26 07:50:56       41 728 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 07:50:56        0 728 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/16/26 07:50:56       41 728 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 08:09:13        0 960 No LicenseKey in File found
+E 01/16/26 08:09:13        0 960 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/16/26 08:09:13        0 960 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/16/26 08:09:13        0 960 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/16/26 08:09:13        0 960 Invalid LicenseKey
+E 01/16/26 08:09:13        0 960 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/16/26 08:09:13        0 960 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/16/26 08:09:14        0 960 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/16/26 08:09:14       41 960 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 08:09:14        0 960 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/16/26 08:09:14       41 960 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 08:09:14        0 960 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/16/26 08:09:14       41 960 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 08:09:14        0 960 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/16/26 08:09:14       41 960 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 08:09:14        0 960 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/16/26 08:09:14       41 960 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 08:09:14        0 960 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/16/26 08:09:14       41 960 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 08:09:14        0 960 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/16/26 08:09:14       41 960 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 08:09:14        0 960 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/16/26 08:09:14       41 960 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 08:09:14        0 960 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/16/26 08:09:14       41 960 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 09:10:35        0 960 Demo Mode expired - Access denied
+E 01/16/26 10:15:37        0 108 No LicenseKey in File found
+E 01/16/26 10:15:37        0 108 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/16/26 10:15:37        0 108 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/16/26 10:15:37        0 108 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/16/26 10:15:37        0 108 Invalid LicenseKey
+E 01/16/26 10:15:37        0 108 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/16/26 10:15:37        0 108 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/16/26 10:15:39        0 108 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/16/26 10:15:39       41 108 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:15:39        0 108 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/16/26 10:15:39       41 108 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:15:39        0 108 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/16/26 10:15:39       41 108 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:15:39        0 108 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/16/26 10:15:39       41 108 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:15:39        0 108 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/16/26 10:15:39       41 108 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:15:39        0 108 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/16/26 10:15:39       41 108 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:15:39        0 108 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/16/26 10:15:39       41 108 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:15:39        0 108 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/16/26 10:15:39       41 108 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:15:39        0 108 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/16/26 10:15:39       41 108 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:22:57        0 004 No LicenseKey in File found
+E 01/16/26 10:22:57        0 004 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/16/26 10:22:57        0 004 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/16/26 10:22:57        0 004 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/16/26 10:22:57        0 004 Invalid LicenseKey
+E 01/16/26 10:22:57        0 004 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/16/26 10:22:57        0 004 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/16/26 10:22:59        0 004 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/16/26 10:22:59       41 004 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:22:59        0 004 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/16/26 10:22:59       41 004 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:22:59        0 004 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/16/26 10:22:59       41 004 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:22:59        0 004 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/16/26 10:22:59       41 004 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:22:59        0 004 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/16/26 10:22:59       41 004 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:22:59        0 004 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/16/26 10:22:59       41 004 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:22:59        0 004 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/16/26 10:22:59       41 004 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:22:59        0 004 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/16/26 10:22:59       41 004 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:22:59        0 004 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/16/26 10:22:59       41 004 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:32:02        0 868 No LicenseKey in File found
+E 01/16/26 10:32:02        0 868 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/16/26 10:32:02        0 868 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/16/26 10:32:02        0 868 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/16/26 10:32:02        0 868 Invalid LicenseKey
+E 01/16/26 10:32:02        0 868 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/16/26 10:32:02        0 868 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/16/26 10:32:03        0 868 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/16/26 10:32:03       41 868 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:32:03        0 868 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/16/26 10:32:03       41 868 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:32:03        0 868 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/16/26 10:32:03       41 868 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:32:03        0 868 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/16/26 10:32:03       41 868 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:32:03        0 868 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/16/26 10:32:03       41 868 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:32:03        0 868 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/16/26 10:32:03       41 868 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:32:03        0 868 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/16/26 10:32:03       41 868 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:32:03        0 868 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/16/26 10:32:03       41 868 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 10:32:03        0 868 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/16/26 10:32:03       41 868 ReadPlVarString Error result= 0x 1040303 
+E 01/16/26 11:33:23        0 868 Demo Mode expired - Access denied
+E 01/19/26 10:02:08        0 876 No LicenseKey in File found
+E 01/19/26 10:02:08        0 876 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/19/26 10:02:08        0 876 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/19/26 10:02:08        0 876 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/19/26 10:02:08        0 876 Invalid LicenseKey
+E 01/19/26 10:02:08        0 876 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/19/26 10:02:08        0 876 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/19/26 10:02:09        0 876 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/19/26 10:02:09       41 876 ReadPlVarString Error result= 0x 1040303 
+E 01/19/26 10:02:09        0 876 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/19/26 10:02:09       41 876 ReadPlVarString Error result= 0x 1040303 
+E 01/19/26 10:02:09        0 876 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/19/26 10:02:09       41 876 ReadPlVarString Error result= 0x 1040303 
+E 01/19/26 10:02:09        0 876 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/19/26 10:02:09       41 876 ReadPlVarString Error result= 0x 1040303 
+E 01/19/26 10:02:09        0 876 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/19/26 10:02:09       41 876 ReadPlVarString Error result= 0x 1040303 
+E 01/19/26 10:02:09        0 876 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/19/26 10:02:09       41 876 ReadPlVarString Error result= 0x 1040303 
+E 01/19/26 10:02:09        0 876 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/19/26 10:02:09       41 876 ReadPlVarString Error result= 0x 1040303 
+E 01/19/26 10:02:09        0 876 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/19/26 10:02:09       41 876 ReadPlVarString Error result= 0x 1040303 
+E 01/19/26 10:02:09        0 876 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/19/26 10:02:09       41 876 ReadPlVarString Error result= 0x 1040303 
+E 01/19/26 11:03:29        0 876 Demo Mode expired - Access denied
+E 01/20/26 12:02:26        0 928 No LicenseKey in File found
+E 01/20/26 12:02:26        0 928 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/20/26 12:02:26        0 928 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/20/26 12:02:26        0 928 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/20/26 12:02:26        0 928 Invalid LicenseKey
+E 01/20/26 12:02:26        0 928 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/20/26 12:02:26        0 928 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/20/26 12:02:27        0 928 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/20/26 12:02:27       41 928 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:02:27        0 928 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/20/26 12:02:27       41 928 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:02:27        0 928 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/20/26 12:02:27       41 928 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:02:27        0 928 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/20/26 12:02:27       41 928 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:02:27        0 928 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/20/26 12:02:27       41 928 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:02:27        0 928 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/20/26 12:02:27       41 928 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:02:27        0 928 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/20/26 12:02:27       41 928 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:02:27        0 928 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/20/26 12:02:27       41 928 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:02:27        0 928 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/20/26 12:02:27       41 928 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:58:42        0 948 No LicenseKey in File found
+E 01/20/26 12:58:42        0 948 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/20/26 12:58:42        0 948 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/20/26 12:58:42        0 948 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/20/26 12:58:42        0 948 Invalid LicenseKey
+E 01/20/26 12:58:42        0 948 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/20/26 12:58:42        0 948 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/20/26 12:58:43        0 948 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/20/26 12:58:43       41 948 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:58:43        0 948 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/20/26 12:58:43       41 948 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:58:43        0 948 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/20/26 12:58:43       41 948 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:58:43        0 948 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/20/26 12:58:43       41 948 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:58:43        0 948 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/20/26 12:58:43       41 948 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:58:43        0 948 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/20/26 12:58:43       41 948 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:58:43        0 948 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/20/26 12:58:43       41 948 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:58:43        0 948 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/20/26 12:58:43       41 948 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 12:58:43        0 948 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/20/26 12:58:43       41 948 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:04:51        0 936 No LicenseKey in File found
+E 01/20/26 13:04:51        0 936 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/20/26 13:04:51        0 936 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/20/26 13:04:51        0 936 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/20/26 13:04:51        0 936 Invalid LicenseKey
+E 01/20/26 13:04:51        0 936 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/20/26 13:04:51        0 936 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/20/26 13:04:52        0 936 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/20/26 13:04:52       41 936 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:04:52        0 936 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/20/26 13:04:52       41 936 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:04:52        0 936 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/20/26 13:04:52       41 936 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:04:52        0 936 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/20/26 13:04:52       41 936 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:04:52        0 936 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/20/26 13:04:52       41 936 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:04:52        0 936 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/20/26 13:04:52       41 936 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:04:52        0 936 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/20/26 13:04:52       41 936 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:04:52        0 936 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/20/26 13:04:52       41 936 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:04:52        0 936 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/20/26 13:04:52       41 936 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:27:07        0 824 No LicenseKey in File found
+E 01/20/26 13:27:07        0 824 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/20/26 13:27:07        0 824 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/20/26 13:27:07        0 824 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/20/26 13:27:07        0 824 Invalid LicenseKey
+E 01/20/26 13:27:07        0 824 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/20/26 13:27:07        0 824 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/20/26 13:27:08        0 824 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/20/26 13:27:08       41 824 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:27:08        0 824 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/20/26 13:27:08       41 824 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:27:08        0 824 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/20/26 13:27:08       41 824 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:27:08        0 824 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/20/26 13:27:08       41 824 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:27:08        0 824 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/20/26 13:27:08       41 824 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:27:08        0 824 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/20/26 13:27:08       41 824 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:27:08        0 824 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/20/26 13:27:08       41 824 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:27:08        0 824 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/20/26 13:27:08       41 824 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 13:27:08        0 824 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/20/26 13:27:08       41 824 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 14:28:28        0 824 Demo Mode expired - Access denied
+E 01/20/26 15:21:51        0 828 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/20/26 15:21:51        0 828 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/20/26 15:21:51        0 828 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/20/26 15:21:51        0 828 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/20/26 15:21:51        0 828 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/20/26 15:21:52        0 828 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/20/26 15:21:52       41 828 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:21:52        0 828 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/20/26 15:21:52       41 828 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:21:52        0 828 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/20/26 15:21:52       41 828 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:21:52        0 828 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/20/26 15:21:52       41 828 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:21:52        0 828 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/20/26 15:21:52       41 828 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:21:52        0 828 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/20/26 15:21:52       41 828 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:21:52        0 828 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/20/26 15:21:52       41 828 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:21:52        0 828 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/20/26 15:21:52       41 828 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:21:52        0 828 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/20/26 15:21:52       41 828 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:30:29        0 104 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/20/26 15:30:29        0 104 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/20/26 15:30:29        0 104 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/20/26 15:30:29        0 104 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/20/26 15:30:29        0 104 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/20/26 15:30:30        0 104 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/20/26 15:30:30       41 104 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:30:30        0 104 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/20/26 15:30:30       41 104 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:30:30        0 104 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/20/26 15:30:30       41 104 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:30:30        0 104 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/20/26 15:30:30       41 104 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:30:30        0 104 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/20/26 15:30:30       41 104 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:30:30        0 104 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/20/26 15:30:30       41 104 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:30:30        0 104 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/20/26 15:30:30       41 104 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:30:30        0 104 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/20/26 15:30:30       41 104 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:30:30        0 104 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/20/26 15:30:30       41 104 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:44:56        0 920 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/20/26 15:44:56        0 920 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/20/26 15:44:56        0 920 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/20/26 15:44:56        0 920 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/20/26 15:44:56        0 920 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/20/26 15:44:57        0 920 ReadPlVar - VarName= /Hmi/OpcUaAlarm2; read Error= 0x 1040303
+E 01/20/26 15:44:57       41 920 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:44:57        0 920 ReadPlVar - VarName= /Hmi/OpcUaAlarm3; read Error= 0x 1040303
+E 01/20/26 15:44:57       41 920 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:44:57        0 920 ReadPlVar - VarName= /Hmi/OpcUaAlarm4; read Error= 0x 1040303
+E 01/20/26 15:44:57       41 920 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:44:57        0 920 ReadPlVar - VarName= /Hmi/OpcUaAlarm5; read Error= 0x 1040303
+E 01/20/26 15:44:57       41 920 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:44:57        0 920 ReadPlVar - VarName= /Hmi/OpcUaAlarm6; read Error= 0x 1040303
+E 01/20/26 15:44:57       41 920 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:44:57        0 920 ReadPlVar - VarName= /Hmi/OpcUaAlarm7; read Error= 0x 1040303
+E 01/20/26 15:44:57       41 920 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:44:57        0 920 ReadPlVar - VarName= /Hmi/OpcUaAlarm8; read Error= 0x 1040303
+E 01/20/26 15:44:57       41 920 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:44:57        0 920 ReadPlVar - VarName= /Hmi/OpcUaAlarm9; read Error= 0x 1040303
+E 01/20/26 15:44:57       41 920 ReadPlVarString Error result= 0x 1040303 
+E 01/20/26 15:44:57        0 920 ReadPlVar - VarName= /Hmi/OpcUaAlarm10; read Error= 0x 1040303
+E 01/20/26 15:44:57       41 920 ReadPlVarString Error result= 0x 1040303 
+E 01/21/26 10:26:25        0 724 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/21/26 10:26:25        0 724 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/21/26 10:26:25        0 724 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/21/26 10:26:25        0 724 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/21/26 10:26:25        0 724 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/21/26 10:26:25        0 724 Error: The component 'parent:=' is missing in 'name:="Hmi", parent="ROOT"'.
+
+E 01/21/26 10:26:25        0 724 Error: The component 'parent:=' is missing in 'name:="State", parent="FLD2"'.
+
+E 01/21/26 10:26:25        0 724 Error: The component 'parent:=' is missing in 'name:="State", parent="FLD3"'.
+
+E 01/21/26 10:26:25        0 724 ReadPlVar - VarName= /Channel/ProgramInfo/selectedWorkPProg; read Error= 0x 1040303
+E 01/21/26 10:26:25       41 724 ReadPlVarString Error result= 0x 1040303 
+E 01/21/26 14:40:16        0 860 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/21/26 14:40:16        0 860 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/21/26 14:40:16        0 860 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/21/26 14:40:16        0 860 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/21/26 14:40:16        0 860 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/21/26 14:40:16        0 860 Error: The component 'parent:=' is missing in 'name:="Hmi", parent="ROOT"'.
+
+E 01/21/26 14:40:16        0 860 Error: The component 'parent:=' is missing in 'name:="State", parent="FLD2"'.
+
+E 01/21/26 14:40:16        0 860 Error: The component 'parent:=' is missing in 'name:="State", parent="FLD3"'.
+
+E 01/21/26 14:40:16        0 860 ReadPlVar - VarName= /Channel/ProgramInfo/selectedWorkPProg; read Error= 0x 1040303
+E 01/21/26 14:40:16       41 860 ReadPlVarString Error result= 0x 1040303 
+E 01/21/26 14:51:15        0 948 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/21/26 14:51:15        0 948 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/21/26 14:51:15        0 948 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/21/26 14:51:15        0 948 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/21/26 14:51:15        0 948 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/21/26 14:51:15        0 948 Error: The component 'parent:=' is missing in 'name:="Hmi", parent="ROOT"'.
+
+E 01/21/26 14:51:15        0 948 Error: The component 'parent:=' is missing in 'name:="State", parent="FLD2"'.
+
+E 01/21/26 14:51:15        0 948 Error: The component 'parent:=' is missing in 'name:="State", parent="FLD3"'.
+
+E 01/21/26 14:51:16        0 948 ReadPlVar - VarName= /Channel/ProgramInfo/selectedWorkPProg; read Error= 0x 1040303
+E 01/21/26 14:51:16       41 948 ReadPlVarString Error result= 0x 1040303 
+E 01/21/26 15:15:08        0 920 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/21/26 15:15:08        0 920 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/21/26 15:15:08        0 920 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/21/26 15:15:08        0 920 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/21/26 15:15:08        0 920 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/21/26 15:15:08        0 920 Error: The component 'parent:=' is missing in 'name:="Hmi", parent="ROOT"'.
+
+E 01/21/26 15:15:08        0 920 Error: The component 'parent:=' is missing in 'name:="State", parent="FLD2"'.
+
+E 01/21/26 15:15:08        0 920 Error: The component 'parent:=' is missing in 'name:="State", parent="FLD3"'.
+
+E 01/21/26 15:15:09        0 920 ReadPlVar - VarName= /Channel/ProgramInfo/selectedWorkPProg; read Error= 0x 1040303
+E 01/21/26 15:15:09       41 920 ReadPlVarString Error result= 0x 1040303 
+E 01/21/26 17:12:09        0 724 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/21/26 17:12:09        0 724 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/21/26 17:12:09        0 724 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/21/26 17:12:09        0 724 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/21/26 17:12:09        0 724 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/21/26 17:12:09        0 724 ReadPlVar - VarName= /Channel/ProgramInfo/selectedWorkPProg; read Error= 0x 1040303
+E 01/21/26 17:12:09       41 724 ReadPlVarString Error result= 0x 1040303 
+E 01/21/26 17:23:28        0 728 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/21/26 17:23:28        0 728 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/21/26 17:23:28        0 728 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/21/26 17:23:28        0 728 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/21/26 17:23:28        0 728 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/21/26 17:23:29        0 728 ReadPlVar - VarName= /Channel/ProgramInfo/selectedWorkPProg; read Error= 0x 1040303
+E 01/21/26 17:23:29       41 728 ReadPlVarString Error result= 0x 1040303 
+E 01/22/26 08:08:43        0 932 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/22/26 08:08:43        0 932 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/22/26 08:08:43        0 932 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/22/26 08:08:43        0 932 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/22/26 08:08:43        0 932 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/22/26 08:08:43        0 932 ReadPlVar - VarName= /Channel/ProgramInfo/selectedWorkPProg; read Error= 0x 1040303
+E 01/22/26 08:08:43       41 932 ReadPlVarString Error result= 0x 1040303 
+E 01/22/26 08:37:56        0 748 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/22/26 08:37:56        0 748 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/22/26 08:37:56        0 748 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/22/26 08:37:56        0 748 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/22/26 08:37:56        0 748 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/22/26 08:37:57        0 748 ReadPlVar - VarName= /Channel/ProgramInfo/selectedWorkPProg; read Error= 0x 1040303
+E 01/22/26 08:37:57       41 748 ReadPlVarString Error result= 0x 1040303 
+E 01/23/26 07:40:35        0 828 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/23/26 07:40:35        0 828 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/23/26 07:40:35        0 828 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/23/26 07:40:35        0 828 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/23/26 07:40:35        0 828 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/23/26 07:40:36        0 828 ReadPlVar - VarName= /Channel/ProgramInfo/selectedWorkPProg; read Error= 0x 1040303
+E 01/23/26 07:40:36       41 828 ReadPlVarString Error result= 0x 1040303 
+E 01/23/26 07:56:50        0 916 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/23/26 07:56:50        0 916 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/23/26 07:56:50        0 916 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/23/26 07:56:50        0 916 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/23/26 07:56:50        0 916 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/23/26 07:56:51        0 916 ReadPlVar - VarName= /Channel/ProgramInfo/selectedWorkPProg; read Error= 0x 1040303
+E 01/23/26 07:56:51       41 916 ReadPlVarString Error result= 0x 1040303 
+E 01/26/26 07:34:33        0 928 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/26/26 07:34:33        0 928 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/26/26 07:34:33        0 928 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/26/26 07:34:33        0 928 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/26/26 07:34:33        0 928 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/26/26 07:34:34        0 928 ReadPlVar - VarName= /Channel/ProgramInfo/selectedWorkPProg; read Error= 0x 1040303
+E 01/26/26 07:34:34       41 928 ReadPlVarString Error result= 0x 1040303 
+E 01/26/26 11:00:26        0 116 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/26/26 11:00:26        0 116 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/26/26 11:00:26        0 116 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/26/26 11:00:26        0 116 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/26/26 11:00:26        0 116 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/26/26 11:00:26        0 116 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 01/26/26 11:00:26       41 116 ReadPlVarString Error result= 0x 504090A 
+E 01/26/26 11:15:00        0 824 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/26/26 11:15:00        0 824 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/26/26 11:15:00        0 824 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/26/26 11:15:00        0 824 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/26/26 11:15:00        0 824 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/26/26 11:15:00        0 824 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 01/26/26 11:15:00       41 824 ReadPlVarString Error result= 0x 504090A 
+E 01/27/26 07:33:58        0 884 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/27/26 07:33:58        0 884 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/27/26 07:33:58        0 884 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/27/26 07:33:58        0 884 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/27/26 07:33:58        0 884 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/27/26 07:33:59        0 884 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 01/27/26 07:33:59       41 884 ReadPlVarString Error result= 0x 504090A 
+E 01/28/26 17:00:12        0 728 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/28/26 17:00:12        0 728 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/28/26 17:00:12        0 728 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/28/26 17:00:12        0 728 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/28/26 17:00:12        0 728 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/28/26 17:00:13        0 728 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 01/28/26 17:00:13       41 728 ReadPlVarString Error result= 0x 504090A 
+E 01/28/26 17:09:18        0 008 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/28/26 17:09:18        0 008 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/28/26 17:09:18        0 008 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/28/26 17:09:18        0 008 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/28/26 17:09:18        0 008 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/28/26 17:09:18        0 008 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 01/28/26 17:09:18       41 008 ReadPlVarString Error result= 0x 504090A 
+E 01/29/26 14:07:22        0 016 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/29/26 14:07:22        0 016 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/29/26 14:07:22        0 016 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/29/26 14:07:22        0 016 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/29/26 14:07:22        0 016 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/29/26 14:07:22        0 016 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 01/29/26 14:07:22       41 016 ReadPlVarString Error result= 0x 504090A 
+E 01/30/26 12:21:55        0 892 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/30/26 12:21:55        0 892 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/30/26 12:21:55        0 892 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/30/26 12:21:55        0 892 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/30/26 12:21:55        0 892 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/30/26 12:21:55        0 892 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 01/30/26 12:21:55       41 892 ReadPlVarString Error result= 0x 504090A 
+E 01/31/26 06:36:10        0 120 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/31/26 06:36:10        0 120 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/31/26 06:36:10        0 120 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/31/26 06:36:10        0 120 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/31/26 06:36:10        0 120 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/31/26 06:36:10        0 120 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 01/31/26 06:36:10       41 120 ReadPlVarString Error result= 0x 504090A 
+E 01/31/26 06:42:33        0 912 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/31/26 06:42:33        0 912 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/31/26 06:42:33        0 912 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/31/26 06:42:33        0 912 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/31/26 06:42:33        0 912 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/31/26 06:42:33        0 912 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 01/31/26 06:42:33       41 912 ReadPlVarString Error result= 0x 504090A 
+E 01/31/26 06:55:51        0 912 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/31/26 06:55:51        0 912 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/31/26 06:55:51        0 912 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/31/26 06:55:51        0 912 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/31/26 06:55:51        0 912 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/31/26 06:55:52        0 912 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 01/31/26 06:55:52       41 912 ReadPlVarString Error result= 0x 504090A 
+E 01/31/26 07:38:52        0 256 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/31/26 07:38:52        0 256 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/31/26 07:38:52        0 256 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/31/26 07:38:52        0 256 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/31/26 07:38:52        0 256 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/31/26 07:38:52        0 256 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 01/31/26 07:38:52       41 256 ReadPlVarString Error result= 0x 504090A 
+E 01/31/26 08:03:14        0 840 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/31/26 08:03:14        0 840 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/31/26 08:03:14        0 840 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/31/26 08:03:14        0 840 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/31/26 08:03:14        0 840 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/31/26 08:03:15        0 840 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 01/31/26 08:03:15       41 840 ReadPlVarString Error result= 0x 504090A 
+E 01/31/26 08:16:59        0 848 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/31/26 08:16:59        0 848 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/31/26 08:16:59        0 848 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/31/26 08:16:59        0 848 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/31/26 08:16:59        0 848 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/31/26 08:16:59        0 848 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 01/31/26 08:16:59       41 848 ReadPlVarString Error result= 0x 504090A 
+E 01/31/26 08:25:04        0 828 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 01/31/26 08:25:04        0 828 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 01/31/26 08:25:04        0 828 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 01/31/26 08:25:04        0 828 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 01/31/26 08:25:04        0 828 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 01/31/26 08:25:05        0 828 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 01/31/26 08:25:05       41 828 ReadPlVarString Error result= 0x 504090A 
+E 02/02/26 07:26:21        0 212 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/02/26 07:26:21        0 212 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/02/26 07:26:21        0 212 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/02/26 07:26:21        0 212 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/02/26 07:26:21        0 212 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/02/26 07:26:21        0 212 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/02/26 07:26:21       41 212 ReadPlVarString Error result= 0x 504090A 
+E 02/02/26 08:17:15        0 984 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/02/26 08:17:15        0 984 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/02/26 08:17:15        0 984 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/02/26 08:17:15        0 984 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/02/26 08:17:15        0 984 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/02/26 08:17:15        0 984 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/02/26 08:17:15       41 984 ReadPlVarString Error result= 0x 504090A 
+E 02/02/26 09:19:48        0 024 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/02/26 09:19:48        0 024 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/02/26 09:19:48        0 024 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/02/26 09:19:48        0 024 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/02/26 09:19:48        0 024 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/02/26 09:19:49        0 024 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/02/26 09:19:49       41 024 ReadPlVarString Error result= 0x 504090A 
+E 02/02/26 10:13:56        0 896 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/02/26 10:13:56        0 896 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/02/26 10:13:56        0 896 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/02/26 10:13:56        0 896 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/02/26 10:13:56        0 896 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/02/26 10:13:57        0 896 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/02/26 10:13:57       41 896 ReadPlVarString Error result= 0x 504090A 
+E 02/03/26 07:36:29        0 736 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/03/26 07:36:29        0 736 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/03/26 07:36:29        0 736 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/03/26 07:36:29        0 736 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/03/26 07:36:29        0 736 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/03/26 07:36:29        0 736 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/03/26 07:36:29       41 736 ReadPlVarString Error result= 0x 504090A 
+E 02/03/26 14:12:15        0 816 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/03/26 14:12:15        0 816 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/03/26 14:12:15        0 816 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/03/26 14:12:15        0 816 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/03/26 14:12:15        0 816 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/03/26 14:12:15        0 816 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/03/26 14:12:15       41 816 ReadPlVarString Error result= 0x 504090A 
+E 02/03/26 14:26:49        0 916 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/03/26 14:26:49        0 916 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/03/26 14:26:49        0 916 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/03/26 14:26:49        0 916 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/03/26 14:26:49        0 916 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/03/26 14:26:49        0 916 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/03/26 14:26:49       41 916 ReadPlVarString Error result= 0x 504090A 
+E 02/03/26 14:40:06        0 952 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/03/26 14:40:06        0 952 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/03/26 14:40:06        0 952 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/03/26 14:40:06        0 952 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/03/26 14:40:06        0 952 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/03/26 14:40:07        0 952 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/03/26 14:40:07       41 952 ReadPlVarString Error result= 0x 504090A 
+E 02/03/26 15:03:14        0 980 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/03/26 15:03:14        0 980 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/03/26 15:03:14        0 980 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/03/26 15:03:14        0 980 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/03/26 15:03:14        0 980 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/03/26 15:03:14        0 980 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/03/26 15:03:14       41 980 ReadPlVarString Error result= 0x 504090A 
+E 02/03/26 15:15:48        0 028 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/03/26 15:15:48        0 028 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/03/26 15:15:48        0 028 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/03/26 15:15:48        0 028 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/03/26 15:15:48        0 028 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/03/26 15:15:48        0 028 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/03/26 15:15:48       41 028 ReadPlVarString Error result= 0x 504090A 
+E 02/03/26 15:24:01        0 836 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/03/26 15:24:01        0 836 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/03/26 15:24:01        0 836 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/03/26 15:24:01        0 836 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/03/26 15:24:01        0 836 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/03/26 15:24:01        0 836 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/03/26 15:24:01       41 836 ReadPlVarString Error result= 0x 504090A 
+E 02/03/26 15:41:04        0 968 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/03/26 15:41:04        0 968 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/03/26 15:41:04        0 968 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/03/26 15:41:04        0 968 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/03/26 15:41:04        0 968 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/03/26 15:41:05        0 968 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/03/26 15:41:05       41 968 ReadPlVarString Error result= 0x 504090A 
+E 02/03/26 15:54:27        0 960 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/03/26 15:54:27        0 960 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/03/26 15:54:27        0 960 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/03/26 15:54:27        0 960 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/03/26 15:54:27        0 960 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/03/26 15:54:27        0 960 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/03/26 15:54:27       41 960 ReadPlVarString Error result= 0x 504090A 
+E 02/03/26 17:07:05        0 816 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/03/26 17:07:05        0 816 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/03/26 17:07:05        0 816 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/03/26 17:07:05        0 816 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/03/26 17:07:05        0 816 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/03/26 17:07:05        0 816 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/03/26 17:07:05       41 816 ReadPlVarString Error result= 0x 504090A 
+E 02/03/26 17:20:13        0 916 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/03/26 17:20:13        0 916 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/03/26 17:20:13        0 916 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/03/26 17:20:13        0 916 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/03/26 17:20:13        0 916 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/03/26 17:20:13        0 916 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/03/26 17:20:13       41 916 ReadPlVarString Error result= 0x 504090A 
+E 02/03/26 17:24:09        0 916 ReadPlVar - VarName= /Channel/State/actToolIdent; read Error= 0x 204030E
+E 02/03/26 17:24:09       41 916 ReadPlVarString Error result= 0x 204030E 
+E 02/03/26 17:37:58        0 824 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/03/26 17:37:58        0 824 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/03/26 17:37:58        0 824 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/03/26 17:37:58        0 824 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/03/26 17:37:58        0 824 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/03/26 17:37:58        0 824 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/03/26 17:37:58       41 824 ReadPlVarString Error result= 0x 504090A 
+E 02/04/26 07:30:47        0 212 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/04/26 07:30:47        0 212 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/04/26 07:30:47        0 212 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/04/26 07:30:47        0 212 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/04/26 07:30:47        0 212 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/04/26 07:30:48        0 212 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/04/26 07:30:48       41 212 ReadPlVarString Error result= 0x 504090A 
+E 02/04/26 08:30:07        0 920 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/04/26 08:30:07        0 920 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/04/26 08:30:07        0 920 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/04/26 08:30:07        0 920 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/04/26 08:30:07        0 920 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/04/26 08:30:08        0 920 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/04/26 08:30:08       41 920 ReadPlVarString Error result= 0x 504090A 
+E 02/04/26 08:38:36        0 116 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/04/26 08:38:36        0 116 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/04/26 08:38:36        0 116 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/04/26 08:38:36        0 116 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/04/26 08:38:36        0 116 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/04/26 08:38:36        0 116 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/04/26 08:38:36       41 116 ReadPlVarString Error result= 0x 504090A 
+E 02/04/26 09:00:25        0 968 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/04/26 09:00:25        0 968 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/04/26 09:00:25        0 968 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/04/26 09:00:25        0 968 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/04/26 09:00:25        0 968 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/04/26 09:00:25        0 968 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/04/26 09:00:25       41 968 ReadPlVarString Error result= 0x 504090A 
+E 02/04/26 09:09:26        0 824 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/04/26 09:09:26        0 824 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/04/26 09:09:26        0 824 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/04/26 09:09:26        0 824 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/04/26 09:09:26        0 824 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/04/26 09:09:26        0 824 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/04/26 09:09:26       41 824 ReadPlVarString Error result= 0x 504090A 
+E 02/04/26 09:33:42        0 028 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/04/26 09:33:42        0 028 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/04/26 09:33:42        0 028 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/04/26 09:33:42        0 028 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/04/26 09:33:42        0 028 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/04/26 09:33:42        0 028 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/04/26 09:33:42       41 028 ReadPlVarString Error result= 0x 504090A 
+E 02/04/26 09:42:20        0 028 ReadPlVar - VarName= /Channel/State/actToolIdent; read Error= 0x 204030E
+E 02/04/26 09:42:20       41 028 ReadPlVarString Error result= 0x 204030E 
+E 02/04/26 09:49:37        0 816 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/04/26 09:49:37        0 816 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/04/26 09:49:37        0 816 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/04/26 09:49:37        0 816 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/04/26 09:49:37        0 816 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/04/26 09:49:37        0 816 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/04/26 09:49:37       41 816 ReadPlVarString Error result= 0x 504090A 
+E 02/04/26 09:58:35        0 876 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/04/26 09:58:35        0 876 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/04/26 09:58:35        0 876 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/04/26 09:58:35        0 876 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/04/26 09:58:35        0 876 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/04/26 09:58:35        0 876 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/04/26 09:58:35       41 876 ReadPlVarString Error result= 0x 504090A 
+E 02/04/26 10:35:55        0 716 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/04/26 10:35:55        0 716 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/04/26 10:35:55        0 716 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/04/26 10:35:55        0 716 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/04/26 10:35:55        0 716 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/04/26 10:35:55        0 716 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/04/26 10:35:55       41 716 ReadPlVarString Error result= 0x 504090A 
+E 02/04/26 12:36:15        0 956 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/04/26 12:36:15        0 956 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/04/26 12:36:15        0 956 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/04/26 12:36:15        0 956 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/04/26 12:36:15        0 956 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/04/26 12:36:15        0 956 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/04/26 12:36:15       41 956 ReadPlVarString Error result= 0x 504090A 
+E 02/04/26 13:40:43        0 056 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/04/26 13:40:43        0 056 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/04/26 13:40:43        0 056 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/04/26 13:40:43        0 056 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/04/26 13:40:43        0 056 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/04/26 13:40:44        0 056 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/04/26 13:40:44       41 056 ReadPlVarString Error result= 0x 504090A 
+E 02/04/26 14:18:34        0 944 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/04/26 14:18:34        0 944 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/04/26 14:18:34        0 944 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/04/26 14:18:34        0 944 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/04/26 14:18:34        0 944 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/04/26 14:18:34        0 944 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/04/26 14:18:34       41 944 ReadPlVarString Error result= 0x 504090A 
+E 02/04/26 14:21:03        0 944 ReadPlVar - VarName= /Channel/State/actToolIdent; read Error= 0x 204030E
+E 02/04/26 14:21:03       41 944 ReadPlVarString Error result= 0x 204030E 
+E 02/05/26 07:26:09        0 840 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/05/26 07:26:09        0 840 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/05/26 07:26:09        0 840 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/05/26 07:26:09        0 840 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/05/26 07:26:09        0 840 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/05/26 07:26:09        0 840 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/05/26 07:26:09       41 840 ReadPlVarString Error result= 0x 504090A 
+E 02/05/26 10:28:04        0 892 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/05/26 10:28:04        0 892 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/05/26 10:28:04        0 892 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/05/26 10:28:04        0 892 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/05/26 10:28:04        0 892 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/05/26 10:28:05        0 892 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/05/26 10:28:05       41 892 ReadPlVarString Error result= 0x 504090A 
+E 02/05/26 10:55:47        0 844 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/05/26 10:55:47        0 844 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/05/26 10:55:47        0 844 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/05/26 10:55:47        0 844 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/05/26 10:55:47        0 844 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/05/26 10:55:48        0 844 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/05/26 10:55:48       41 844 ReadPlVarString Error result= 0x 504090A 
+E 02/05/26 11:40:09        0 100 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/05/26 11:40:09        0 100 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/05/26 11:40:09        0 100 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/05/26 11:40:09        0 100 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/05/26 11:40:09        0 100 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/05/26 11:40:10        0 100 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/05/26 11:40:10       41 100 ReadPlVarString Error result= 0x 504090A 
+E 02/05/26 14:30:30        0 820 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/05/26 14:30:30        0 820 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/05/26 14:30:30        0 820 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/05/26 14:30:30        0 820 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/05/26 14:30:30        0 820 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/05/26 14:30:30        0 820 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/05/26 14:30:30       41 820 ReadPlVarString Error result= 0x 504090A 
+E 02/05/26 16:06:18        0 812 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/05/26 16:06:18        0 812 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/05/26 16:06:18        0 812 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/05/26 16:06:18        0 812 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/05/26 16:06:18        0 812 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/05/26 16:06:18        0 812 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/05/26 16:06:18       41 812 ReadPlVarString Error result= 0x 504090A 
+E 02/06/26 07:28:11        0 032 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/06/26 07:28:11        0 032 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/06/26 07:28:11        0 032 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/06/26 07:28:11        0 032 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/06/26 07:28:11        0 032 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/06/26 07:28:11        0 032 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/06/26 07:28:11       41 032 ReadPlVarString Error result= 0x 504090A 
+E 02/06/26 11:26:46        0 816 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/06/26 11:26:46        0 816 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/06/26 11:26:46        0 816 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/06/26 11:26:46        0 816 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/06/26 11:26:46        0 816 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/06/26 11:26:46        0 816 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/06/26 11:26:46       41 816 ReadPlVarString Error result= 0x 504090A 
+E 02/06/26 14:46:59        0 944 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/06/26 14:46:59        0 944 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/06/26 14:46:59        0 944 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/06/26 14:46:59        0 944 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/06/26 14:46:59        0 944 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/06/26 14:47:00        0 944 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/06/26 14:47:00       41 944 ReadPlVarString Error result= 0x 504090A 
+E 02/07/26 06:06:28        0 740 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/07/26 06:06:28        0 740 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/07/26 06:06:28        0 740 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/07/26 06:06:28        0 740 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/07/26 06:06:28        0 740 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/07/26 06:06:28        0 740 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/07/26 06:06:28       41 740 ReadPlVarString Error result= 0x 504090A 
+E 02/09/26 11:05:15        0 968 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/09/26 11:05:15        0 968 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/09/26 11:05:15        0 968 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/09/26 11:05:15        0 968 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/09/26 11:05:15        0 968 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/09/26 11:05:15        0 968 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A
+E 02/09/26 11:05:15       41 968 ReadPlVarString Error result= 0x 504090A 
+E 02/10/26 09:09:48        0 724 Address: 192.168.214.241, mac: 00:0E:8C:8E:28:D2 description: VIA Rhine III Fast Ethernet Adapter #2 - Packet Scheduler Miniport
+E 02/10/26 09:09:48        0 724 Address: 10.95.20.29, mac: 00:0E:8C:8E:28:D1 description: VIA Rhine III Fast Ethernet Adapter - Packet Scheduler Miniport
+E 02/10/26 09:09:48        0 724 MACs for License: |00:0E:8C:8E:28:D2|00:0E:8C:8E:28:D1
+E 02/10/26 09:09:48        0 724 Host Name: DMC160RS4_ISRA  Domain Name:  DNS Servers: 10.95.16.21
+E 02/10/26 09:09:48        0 724 DHCP scope name:   Routing: disabled ARP Proxy: disabled DNS: disabled 
+
+E 02/10/26 09:09:49        0 724 ReadPlVar - VarName= /Channel/ProgramInfo/workPandProgName[u2]; read Error= 0x 504090A

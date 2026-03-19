@@ -1,0 +1,132 @@
+[Folders]
+FLD0=name:="SINUMERIK PL",parent:="ROOT"
+
+FLD1=name:="NC",parent:="FLD0"
+
+FLD2=name:="PLC",parent:="FLD0"
+
+FLD3=name:="Channel",parent:="FLD1"
+FLD4=name:="Parameter",parent:="FLD3"
+FLD5=name:="Alarme",parent:="FLD0"
+
+FLD11=name:="Folder1",parent:="FLD1"
+FLD12=name:="Folder2",parent:="FLD1"
+
+[Variables]
+;NC-variable examples
+VAR1=name:="opMode",parent:="FLD1",type:="String",path:="/BAG/State/opmode"
+
+;NC channel -variable examples 
+VAR5=name:="Feedrate",parent:="FLD3",type:="Double",path:="/Channel/State/feedRateIpoOvr[u1]"
+VAR6=name:="PartProgramName",parent:="FLD3",type:="String",path:="/Channel/ProgramInfo/workPandProgName[u1]"
+
+;NC-Variablen Bsp. R-Parameter
+;NC variables example: R-parameters
+VAR11=name:="R0",parent:="FLD4",type:="Double",path:="/channel/parameter/R[u1,0]",readonly:="FALSE"
+VAR12=name:="R1",parent:="FLD4",type:="Double",path:="/channel/parameter/R[u1,1]",readonly:="FALSE"
+VAR13=name:="R2",parent:="FLD4",type:="Double",path:="/channel/parameter/R[u1,2]",readonly:="FALSE"
+VAR14=name:="R3",parent:="FLD4",type:="Double",path:="/channel/parameter/R[u1,3]",readonly:="FALSE"
+VAR15=name:="R4",parent:="FLD4",type:="Double",path:="/channel/parameter/R[u1,4]",readonly:="FALSE"
+VAR16=name:="R5",parent:="FLD4",type:="Double",path:="/channel/parameter/R[u1,5]",readonly:="FALSE"
+VAR17=name:="R6",parent:="FLD4",type:="Double",path:="/channel/parameter/R[u1,6]",readonly:="FALSE"
+VAR18=name:="R7",parent:="FLD4",type:="Double",path:="/channel/parameter/R[u1,7]",readonly:="FALSE"
+VAR19=name:="R8",parent:="FLD4",type:="Double",path:="/channel/parameter/R[u1,8]",readonly:="FALSE"
+
+;Readonly-Variable
+VAR20=name:="R9_Readonly",parent:="FLD4",type:="Double",path:="/channel/parameter/R[u1,9]"
+
+;Array mit R-Parametern
+;Array with R-parameters
+VAR22=name:="RPARAM_Array_asFloat",parent:="FLD4",type:="Float",path:="/channel/parameter/R[u1,0,#10]",readonly:="FALSE"
+VAR23=name:="RPARAM_Array_asDouble",parent:="FLD4",type:="Double",path:="/channel/parameter/R[u1,0,#10]",readonly:="FALSE"
+
+
+;PLC-Variablen, Bsp. für jeden Datentyp
+;PLC-Variables, examples for every datatype 
+VAR30=name:="TestBool",parent:="FLD2",type:="Bool",path:="DB103.DBX6.0",readonly:="false"
+VAR31=name:="TestByte",parent:="FLD2",type:="Byte",path:="DB103.DBB8",readonly:="false"
+VAR32=name:="TestWord",parent:="FLD2",type:="Word",path:="DB103.DBW10",readonly:="false"
+VAR33=name:="TestInt",parent:="FLD2",type:="Int",path:="DB103.DBW12:INT",readonly:="false"
+VAR34=name:="TestInt_Readonly",parent:="FLD2",type:="Int",path:="DB103.DBW12:INT"
+VAR35=name:="TestDWord",parent:="FLD2",type:="DWord",path:="DB103.DBD18",readonly:="false"
+VAR36=name:="TestDInt",parent:="FLD2",type:="DInt",path:="DB103.DBD22:DINT",readonly:="false"
+VAR37=name:="TestDouble",parent:="FLD2",type:="Double",path:="DB103.DBD26:REAL",readonly:="false"
+VAR38=name:="TestFloat",parent:="FLD2",type:="Float",path:="DB103.DBD26:REAL",readonly:="false"
+
+;Strings mit Zusatzvariable(n) um Byte 0 (maximale Stringlaenge) und Byte 1 (aktuelle Stringlaenge) zu beobachten
+;Strings with additional variables to monitor Byte 0 (maximum length of the string) and Byte 1 (current length of the string)
+;VAR39=name:="TestString",parent:="FLD2",type:="String",path:="DB103.DBB46:STRING[254]",readonly:="false"
+;VAR40=name:="TestString_B0",parent:="FLD2",type:="Byte",path:="DB103.DBB46",readonly:="false"
+;VAR41=name:="TestString_10",parent:="FLD2",type:="String",path:="DB103.DBB558:STRING[10]",readonly:="false"
+;VAR42=name:="TestString_10_B0",parent:="FLD2",type:="Byte",path:="DB103.DBB558",readonly:="false"
+;VAR43=name:="TestString_10_B1",parent:="FLD2",type:="Byte",path:="DB103.DBB559",readonly:="false"
+;VAR44=name:="TestString_10_B2",parent:="FLD2",type:="Byte",path:="DB103.DBB560",readonly:="false"
+
+;Arrays für jeden Datentyp (Bool nur mit 8,16 und 32 Array-Größe möglich; String ist nicht verfügbar)
+;Arrays for every datatype (Bool only possible with array sizes of 8, 16, and 32; String is not available) 
+;VAR50=name:="TestByteArray",parent:="FLD2",type:="Byte",path:="DB103.DBB8:[4]",readonly:="false"
+;VAR51=name:="TestWordArray",parent:="FLD2",type:="Word",path:="DB103.DBW8:[2]",readonly:="false"
+;VAR52=name:="TestIntArray",parent:="FLD2",type:="Int",path:="DB103.DBW8:[2]",readonly:="false"
+;VAR53=name:="TestDWordArray",parent:="FLD2",type:="UInt32",path:="DB103.DBD776:[6]",readonly:="false"
+;VAR54=name:="TestDIntArray",parent:="FLD2",type:="Int32",path:="DB103.DBD776:[6]",readonly:="false"
+;VAR55=name:="TestDoubleArray",parent:="FLD2",type:="Double",path:="DB103.DBD800:REAL[6]",readonly:="false"
+;VAR56=name:="TestFloatArray",parent:="FLD2",type:="Float",path:="DB103.DBD800:REAL[6]",readonly:="false"
+;VAR57=name:="TestBoolArray_8",parent:="FLD2",type:="Bool",path:="DB111.DBB20:BOOL",readonly:="false"
+;VAR58=name:="TestBoolArray_16",parent:="FLD2",type:="Bool",path:="DB111.DBW21:BOOL",readonly:="false"
+;VAR59=name:="TestBoolArray_32",parent:="FLD2",type:="Bool",path:="DB111.DBD23:BOOL",readonly:="false"
+
+
+;Alarm variables 
+; by default only the topmost  Alarm is available in the Variable "SinumerikAlarm1"
+;if you want to get the 10 topmost alarms change the Entry "NumOpcUaAlarms" to 10 in the file "runopcua.ini"
+VAR70=name:="SinumerikAlarm1",parent:="FLD5",type:="String",path:="/Hmi/OpcUaAlarm1"
+VAR71=name:="SinumerikAlarm2",parent:="FLD5",type:="String",path:="/Hmi/OpcUaAlarm2"
+VAR72=name:="SinumerikAlarm3",parent:="FLD5",type:="String",path:="/Hmi/OpcUaAlarm3"
+VAR73=name:="SinumerikAlarm4",parent:="FLD5",type:="String",path:="/Hmi/OpcUaAlarm4"
+VAR74=name:="SinumerikAlarm5",parent:="FLD5",type:="String",path:="/Hmi/OpcUaAlarm5"
+VAR75=name:="SinumerikAlarm6",parent:="FLD5",type:="String",path:="/Hmi/OpcUaAlarm6"
+VAR76=name:="SinumerikAlarm7",parent:="FLD5",type:="String",path:="/Hmi/OpcUaAlarm7"
+VAR77=name:="SinumerikAlarm8",parent:="FLD5",type:="String",path:="/Hmi/OpcUaAlarm8"
+VAR78=name:="SinumerikAlarm9",parent:="FLD5",type:="String",path:="/Hmi/OpcUaAlarm9"
+VAR79=name:="SinumerikAlarm10",parent:="FLD5",type:="String",path:="/Hmi/OpcUaAlarm10"
+VAR80=name:="SinumerikAlarmNumbers",parent:="FLD5",type:="String",path:="/Hmi/OpcUaAlarmNumbers"
+
+
+;Datatypes:
+;Bool, Byte, Word/UInt16, DWord/UInt32, Int/Int16/Integer, DInt/Int32, Double, Float, String
+;DateTime is not available 
+
+
+; Prinzip:
+; es gibt einen ROOT Ordner
+
+; es gibt mehrere Ordner Folder (ID/Bez.: FLDxxxx)
+; mit dem Attribut parent werden diese anderen Ordnern zugeordnet (dazu wird die ID verwendet)
+; name = Name des Knotens
+;; nodeId_string = ID des Knotens im Server, in Form eines Strings
+;; nodeId_numeric = ID des Knotens im Server, in Form einer Zahl
+; nodeIds werden automatisch gebildet
+
+; es gibt Variablen, gekennzeichnet mit: VARxxxx
+; werden auch Ordnern zugeordnet mit
+; parent = ID des Übergordneten Knotens (FLDxxxx)
+; type = Datentyp (Liste aller Möglichen: siehe Programm, noch genau festlegen)
+; path = Zugriffspfad auf Variable in Steuerung
+; name, nodeId_[...], parent ist gleich wie bei Ordnern
+
+; Principle:
+; There is a ROOT folder  
+
+; There are multiple folder nodes (ID/Name: FLDxxxx)  
+; They are assigned to other nodes with the parent attribute (using their IDs)  
+; name = Node name 
+;; nodeId_string = Node ID in the server, in the form of a string  
+;; nodeId_numeric = Node ID in the server, in the form of a number
+; Node IDs are automatically generated 
+
+; There are variables, marked with: VARxxxx  
+; They are also assigned to folders with  
+; parent = ID of the parent node (FLDxxxx)  
+; type = Data type (List of all possible types: see program, still to be determined exactly)  
+; path = Access path to variable in control  
+; name, nodeId_[...], parent is the same as for folders  

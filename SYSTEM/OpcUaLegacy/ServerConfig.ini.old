@@ -1,0 +1,49 @@
+[ServerConfig]
+
+User=admin
+
+Password=5EAD5BDFB6EF9E0A2A9B0C6A752889D75992C34439A23357B580BF5107AAFFE9
+
+;LicenseKey=
+
+;StartupDelayTimeInMs=20000
+
+
+Loglevel=102
+LicenseKey=
+
+; LOGERROR   = 100,
+
+; LOGWARNING = 101,
+
+; LOGMESSAGE = 102,
+
+; LOGTRACE   = 103,
+
+; LOGTRACE1  = 104,
+
+; LOGTRACE2  = 105,
+
+; LOGTRACE3  = 106,
+
+; LOGTRACE4  = 107
+
+
+
+[Certificate]
+
+SAN=DNS
+
+
+;Value can be IP or DNS, if none is set, the value is IP
+
+
+[PubSubConfig]
+
+BrokerUrl=opc.mqtt://127.0.0.1:1883
+
+;BrokerUrl=opc.mqtt://<ip>:<port>
+
+PublisherId=1
+
+MQTTClientId=1
